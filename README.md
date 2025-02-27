@@ -19,7 +19,7 @@ For full dataset details, please refer to [DATASET.md](./DATASET.md).
 
 ⏳ **Evaluation & Optimization (Upcoming)**  
 
-I maintain weekly records of my technical progress. They can be found in [`development_logs`](development_logs/)
+I maintain weekly records of my technical progress, documenting the reasons behind each data processing step. They can be found in [`development_logs`](development_logs/)
 
 
 ## 🚀 Setup  
