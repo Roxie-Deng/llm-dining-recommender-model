@@ -1,0 +1,9 @@
+# ignore metadata and output
+output_businesses/
+output_categories/
+yelp_data/
+
+*.log
+*.json
+
+.ipynb_checkpoints/
